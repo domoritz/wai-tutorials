@@ -1,20 +1,17 @@
 ---
 title: "Tutorial"
-permalink: /tutorials/id
-ref: /tutorials/
 lang: id
+last_updated: 2024-04-29
 
-description:
-image: /content-images/wai-tutorials/images/social.png
 github:
   branch: 'master-2.0'
   repository: w3c/wai-tutorials
   path: 'content/index.id.md'
 
-footer: >
-   <p><strong>Date:</strong> Diperbarui 9 September 2022. Pertama kali dipublikasikan September 2014. CHANGELOG.</p>
-   <p><strong>Editor:</strong> Eric Eggert, Shadi Abou-Zahra. Editor pembaruan: Brian Elton. Kontributor: Shawn Lawton Henry, Anna Belle Leiserson, Sharron Rush, Bim Egan, <a href="https://www.w3.org/groups/wg/ag/participants">peserta AG WG</a>, <a href="https://www.w3.org/groups/wg/eowg/participants">peserta EOWG</a>. ACKNOWLEDGEMENTS.</p>
-   <p>Dikembangkan oleh Kelompok Developed by the Kelompok Kerja Edukasi dan Pendampingan (<a href="https://www.w3.org/groups/wg/eowg">EOWG</a>). Dikembangkan dengan dukungan dari <a href="https://www.w3.org/WAI/ACT/">proyek WAI-ACT</a>, didanai bersama oleh Program <abbr title="Teknologi Masyarakat Informasi">IST</abbr> Komisi Eropa.</p>
+permalink: /tutorials/id
+ref: /tutorials/
+
+image: /content-images/wai-tutorials/images/social.png
 
 resource:
   ref: /tutorials/
@@ -22,6 +19,10 @@ resource:
 changelog: /tutorials/changelog/
 acknowledgements: /tutorials/acknowledgements/
 
+footer: >
+   <p><strong>Date:</strong> Diperbarui 9 September 2022. Pertama kali dipublikasikan September 2014. CHANGELOG.</p>
+   <p><strong>Editor:</strong> Eric Eggert, Shadi Abou-Zahra. Editor pembaruan: Brian Elton. Kontributor: Shawn Lawton Henry, Anna Belle Leiserson, Sharron Rush, Bim Egan, <a href="https://www.w3.org/groups/wg/ag/participants">peserta AG WG</a>, <a href="https://www.w3.org/groups/wg/eowg/participants">peserta EOWG</a>. ACKNOWLEDGEMENTS.</p>
+   <p>Dikembangkan oleh Kelompok Developed by the Kelompok Kerja Edukasi dan Pendampingan (<a href="https://www.w3.org/groups/wg/eowg">EOWG</a>). Dikembangkan dengan dukungan dari <a href="https://www.w3.org/WAI/ACT/">proyek WAI-ACT</a>, didanai bersama oleh Program <abbr title="Teknologi Masyarakat Informasi">IST</abbr> Komisi Eropa.</p>
 ---
 
 Kumpulan tutorial ini menunjukkan kepada Anda cara mengembangkan konten web yang bisa diakses oleh penyandang disabilitas, dan memberikan pengalaman pengguna yang lebih baik bagi semua orang.
