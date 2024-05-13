@@ -27,6 +27,26 @@ This changelog lists substantive content edits. It does **not** list typo fixes 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
+## May 2024
+In [Forms tutorial](/tutorials/forms/)
+* Fixing a broken link in [Form Instructions](/tutorials/forms/instructions/#placeholder-text)
+  * [GitHub PR #735](https://github.com/w3c/wai-tutorials/pull/735)
+* Fixing a color contrast issue in [Multi-page Forms](/tutorials/forms/multi-page/#using-the-html5-progress-element)
+  * [GitHub PR #732](https://github.com/w3c/wai-tutorials/pull/732)
+
+In [Tables tutorial](/tutorials/tables/)
+* Fixing a table header issue in [Tables with Multi-Level Headers](/tutorials/tables/multi-level/#table-with-multiple-column-headers-in-each-column)
+  * [GitHub PR #726](https://github.com/w3c/wai-tutorials/pull/726)
+
+In [Images tutorial](/tutorials/images/)
+* Updating link text in [An <code>alt</code> Decision Tree](/tutorials/images/decision-tree/)
+  * [GitHub PR #774](https://github.com/w3c/wai-tutorials/pull/774)
+
+Added notes about responsive design/smaller screen considerations to:
+* [Page Structure > Page Regions](/tutorials/page-structure/regions/)
+* [Menus > Structure](/tutorials/menus/structure/)
+* [Forms > Labeling Controls](/tutorials/forms/labels/)
+* [Carousels > Styling](/tutorials/carousels/styling/)
 
 ## February 2023
 
